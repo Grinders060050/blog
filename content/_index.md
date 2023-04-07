@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: SYS Admin
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Ремонт компьютеров
           description: 100%
-          icon: chart-line
+          icon: computer
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Бодибилдинг
+          description: 100%
+          icon: rocket
           icon_pack: fas
   - block: experience
     content:
@@ -40,27 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: TmLimited
+          company: TM_LIMITED
+          company_url: 'https://tm-limited-man.vsite.biz/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: МОСКВА sity
+          date_start: '2023-01-24'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Персональное обслуживание компьютерной техники.
+              * Ремонт ,монтаж ,демонтаж спец.оборудования.
+              * Системное администрирование.
+        - title: Turkmen ayna zawod karhanasy
+          company: TAK company
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2019-09-10'
+          date_end: '2022-10-01'
+          description: Персональное обслуживание компьютерной техники.Ремонт ,монтаж ,демонтаж     спец.оборудования.Системное администрирование.
     design:
       columns: '2'
   - block: accomplishments
@@ -76,29 +76,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://github.com/Grinders060050
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-09-01'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Фундаментальная информатика.Операционные системы.
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://arzuw.news/krupnejshij-stekolnyj-zavod-ca-v-turkmenistane-vnedril-umnoe-oborudovanie
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2019-09-10'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Крупнейший стекольный завод ЦА в Туркменистане
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://www.rudn.ru/
+          date_end: '2026-09-01'
+          date_start: '2022-09-01'
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Р.У.Д.Н.'
           url: ''
     design:
       columns: '2'
