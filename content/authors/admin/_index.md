@@ -44,23 +44,34 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: https://arxiv.org/user/
+  - icon: home
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.elibrary.ru/defaultx.asp?
+    label: Follow me on elibrary.ru
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://myaccount.google.com/?hl=ru
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Grinders060050
+  - icon: cat
+    icon_pack: fab
+    link: https://vk.com/al_feed.php
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/settings/account/
+  - icon: home
+    icon_pack: fab
+    link: https://independent.academia.edu/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%D0%A8%D1%83%D0%B2%D0%B0%D0%B5%D0%B2
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Sergej-Suvaev
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/my-orcid?orcid=0009-0000-9759-0649
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
